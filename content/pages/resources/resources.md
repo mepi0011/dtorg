@@ -62,6 +62,10 @@ There are many brilliant screencasts on darktable, its various modules and gener
 
 Pascal de Bruijn provides several useful screencasts on his website explaining the different functions of dartkable. Find the [0.7 screencast library](https://encrypted.pcode.nl/blog/2010/12/06/darktable-0-7-screencast-library/), the [0.9 screencast library addition](https://encrypted.pcode.nl/blog/2011/11/05/darktable-0-9-screencast-library-addition/) and the [1.0 screencast library addition](https://encrypted.pcode.nl/blog/2012/06/02/darktable-1-0-screencast-library-addition/) or just pick the one you want:
 
+## Screencasts recorded using darktable 2.4
+
+  * [darktable YouTube channel by Bruce Williams Photography](https://www.youtube.com/playlist?list=PLlYWvzmJQTrRq7JrYdD7k3-8-v-uHnhK_)
+
 ## Screencasts recorded using darktable 1.0
 
   * [darktable 1.0 Update](https://encrypted.pcode.nl/blog/wp-content/uploads/2012/05/darktable-10-update.ogv)
